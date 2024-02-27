@@ -4,6 +4,8 @@
 ### Dashboard Background
 I created this dashboard using Contoso Sales data to display an executive-level report for insights related to brands, sales channel, region, etc. The goal of this report was to provide a valuable business dashboard and to create a visually appealing one-page report.
 
+Users are able to filter down to Country, Year, and Stores to view sales performance by revenue, cost, and gross profit. As a result of slicing this data, users can view these performance metrics by brands and products. Sales data is only available from 2011 to 2013.
+
 The data consists of over two million rows of sales data related to a fake company called Contoso. It is available in the PowerBI Designer file on the Microsoft website: https://www.microsoft.com/en-us/download/details.aspx?id=46801
 
 ## Thank You!
